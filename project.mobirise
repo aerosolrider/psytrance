@@ -22,7 +22,7 @@
       }
     },
     "path": "@PROJECT_PATH@",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/aerosol-rider-logo-affter-ar-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
