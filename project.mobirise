@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "aerosolrider",
-    "currentPage": "psytrance.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -47,13 +47,13 @@
       "components": [
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
+            "showTitle": false,
+            "showText": false,
             "showButtons": false,
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aerosol-rider-logo-horizontal-capa-youtube-2000x1125.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -61,9 +61,9 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.1"
           },
           "title": "FULL SCREEN INTRO",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
@@ -430,12 +430,12 @@
             "showButtons": true,
             "showArrow": false,
             "contentAlign": "right",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/aerosol-rider-logo-horizontal-capa-youtube-2000x1125.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/NVb5GV6lntU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=NVb5GV6lntU",
@@ -444,10 +444,10 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.7"
           },
           "title": "Psytrance",
-          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "text": "Este estilo tem uma batida rápida, entre 132 e 200 batidas por minuto (bpm), além da batida forte de kick, num compasso 4x4, que algumas vezes difere da batida do techno por ter um alcance de freqüência um pouco mais alto além dos sons graves.<br> ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"fullon.html\" data-toolbar=\"-mbrBtnMove\">FULL ON</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"progressivo.html\" data-toolbar=\"-mbrBtnMove\">PROGRESSIVO</a>",
           "_tags": [
             "Theme"
