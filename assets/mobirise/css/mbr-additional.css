@@ -485,6 +485,7 @@ h6,
 
 
 
+
 #menu-2 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -550,6 +551,13 @@ h6,
   color: #c0a375!important;
 }
 #menu-2 .btn {
+  font-family: 'Ubuntu', sans-serif;
+}
+#msg-box6-r .mbr-section-title,
+#msg-box6-r .lead p {
+  color: #fff;
+}
+#msg-box6-r H3 {
   font-family: 'Ubuntu', sans-serif;
 }
 
