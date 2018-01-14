@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 
 
 
@@ -873,6 +874,7 @@ h6,
 
 
 
+
 #menu-i .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -941,5 +943,14 @@ h6,
   font-family: 'Ubuntu', sans-serif;
 }
 #features1-k .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #efefef;
+  background-color: #ffffff;
+}
+#features1-k .mbr-cards-col:nth-child(odd) .card-subtitle {
+  font-family: 'PT Sans', sans-serif;
+}
+#features1-k .mbr-cards-col:nth-child(odd) .card-text {
+  color: #000000;
+}
+#features1-k .mbr-cards-col:nth-child(odd) .card-title {
+  color: #000000;
 }
