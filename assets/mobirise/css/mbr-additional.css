@@ -710,6 +710,14 @@ h6,
   text-align: right;
   color: #efefef;
 }
+#social-buttons4-q .mbr-section-title,
+#social-buttons4-q .btn-social {
+  color: #fff;
+}
+#social-buttons4-q .mbr-section-title {
+  font-size: 30px;
+  text-align: center;
+}
 
 
 
