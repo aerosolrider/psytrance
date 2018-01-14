@@ -28,11 +28,13 @@
     "favicon": "@PROJECT_PATH@/assets/images/aerosol-rider-logo-affter-ar-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
-    "siteUrl": "undefined",
+    "siteUrl": "https://aerosolrider.000webhostapp.com/",
     "versionFirst": "4.5.4",
     "uniqCompNum": 28,
     "versionPublish": "4.5.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
