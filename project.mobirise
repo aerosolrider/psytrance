@@ -1171,9 +1171,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://www.native-instruments.com/en/products/free/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media2": {
@@ -1242,8 +1243,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.native-instruments.com/en/products/free/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://myvst.com/vst-instruments/model-e-freeware\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>",
           "button3": "<a data-app-btn=\"true\" href=\"http://www.vst4free.com/free_vst.php?plugin=Aethereal&amp;id=729\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
